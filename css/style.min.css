@@ -145,6 +145,8 @@ body { zoom: 125%;
     border-color: #54905a !important;
 }
 .button_16232633619630 {
+    width: 142.2px;
+    height: 38px;
     font-weight: 600;
     margin-top: 15px;
     margin-left: 15px;
@@ -166,6 +168,8 @@ body { zoom: 125%;
 }
 
 .button_16232633619640 {
+    width: 169.81px;
+    height: 38px;
     font-weight: 600;
     margin-left: 10px;
     display: inline-block !important;
@@ -186,6 +190,8 @@ body { zoom: 125%;
 }
 
 .button_16232633619650 {
+    width: 176.7px;
+    height: 38px;
     font-weight: 600;
     margin-left: 10px;
     display: inline-block !important;
@@ -205,6 +211,8 @@ body { zoom: 125%;
     border-color: #ff9f00 !important;
 }
 .button_16232633619641 {
+    width: 139.93px;
+    height: 38px;
     font-weight: 600;
     margin-left: 10px;
     display: inline-block !important;
@@ -242,6 +250,16 @@ body { zoom: 125%;
     color: #ffffff !important;
     border-color: #e19393 !important;
 }
+
+.border {
+    width: 720px;
+    height: 3px;
+    margin-top: 12px;
+    background-color: #69c712 !important;
+    border-radius: 3px !important;
+    display: inline-block !important;
+}
+
 .text {
  margin-left: 125px;
  margin-top: 30px;
