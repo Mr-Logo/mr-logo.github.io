@@ -253,7 +253,7 @@ body { zoom: 125%;
 
 .border {
     width: 720px;
-    height: 3px;
+    height: 10px;
     margin-top: 12px;
     background-color: #69c712 !important;
     border-radius: 3px !important;
