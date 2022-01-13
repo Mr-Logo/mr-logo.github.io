@@ -238,6 +238,7 @@ body { zoom: 165%;
     border-color: #8fa193 !important;
 }
 .button_16232633619660 {
+     zoom: 75%;
     font-weight: 600;
     margin-left: 100px;
     display: inline-block !important;
@@ -251,7 +252,7 @@ body { zoom: 165%;
     transition: all 0.6s ease !important;
 }
 .button_16232633619660:hover{
-    zoom: 75%;
+   
     text-decoration: none !important; 
     background-color: #e19393 !important;
     color: #ffffff !important;
