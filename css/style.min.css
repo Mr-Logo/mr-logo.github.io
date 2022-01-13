@@ -313,7 +313,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #ff9f00 !important;
     border-radius: 3px !important;
-    font-size: 10px !important;
+    font-size: 13px !important;
     padding: 4px 8px !important; 
     transition: all 0.6s ease !important;
 }
@@ -333,7 +333,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #8fa193 !important;
     border-radius: 3px !important;
-    font-size: 10px !important;
+    font-size: 13px !important;
     padding: 4px 4px !important; 
     transition: all 0.6s ease !important;
 }
