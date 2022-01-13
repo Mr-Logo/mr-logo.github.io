@@ -261,7 +261,7 @@ body { zoom: 125%;
 }
 
 .button_1 {
-    width: 142.2px;
+    width: 80px;
     height: 38px;
     font-weight: 600;
     margin-top: 15px;
@@ -272,7 +272,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #905d40 !important;
     border-radius: 3px !important;
-    font-size: 10px !important;
+    font-size: 12px !important;
     padding: 4px 4px !important; 
     transition: all 0.6s ease !important;
 }
@@ -284,10 +284,10 @@ body { zoom: 125%;
 }
 
 .button_4 {
-    width: 169.81px;
+    width: 80px;
     height: 38px;
     font-weight: 600;
-    margin-left: 10px;
+    margin-left: 12px;
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #277696 !important;
@@ -306,10 +306,10 @@ body { zoom: 125%;
 }
 
 .button_2 {
-    width: 176.7px;
+    width: 80px;
     height: 38px;
     font-weight: 600;
-    margin-left: 10px;
+    margin-left: 12px;
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #ff9f00 !important;
@@ -327,10 +327,10 @@ body { zoom: 125%;
     border-color: #ff9f00 !important;
 }
 .button_3 {
-    width: 139.93px;
+    width: 80px;
     height: 38px;
     font-weight: 600;
-    margin-left: 10px;
+    margin-left: 12px;
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #8fa193 !important;
