@@ -5,6 +5,12 @@ body { zoom: 125%;
     font-weight: 600;
 }
 
+.text {
+ margin-left: 125px;
+ margin-top: 30px;
+   
+}
+
 .button_1623263361963 {
     font-weight: 600;
     margin-left: 65px;
@@ -264,7 +270,7 @@ body { zoom: 125%;
     
     font-weight: 700;
     margin-top: 15px;
-    margin-left: 100px;
+    margin-left: 50px;
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #905d40 !important;
@@ -343,8 +349,4 @@ body { zoom: 125%;
     color: #ffffff !important;
     border-color: #8fa193 !important;
 
-.text {
- margin-left: 125px;
- margin-top: 30px;
-   
-}
+
