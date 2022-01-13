@@ -260,6 +260,93 @@ body { zoom: 125%;
     display: inline-block !important;
 }
 
+.button_1 {
+    width: 142.2px;
+    height: 38px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #905d40 !important;
+    color: #000000 !important;
+    border: 3px solid #905d40 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_1:hover{
+    text-decoration: none !important; 
+    background-color: #905d40!important;
+    color: #ffffff !important;
+    border-color: #905d40 !important;
+}
+
+.button_4 {
+    width: 169.81px;
+    height: 38px;
+    font-weight: 600;
+    margin-left: 10px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #277696 !important;
+    color: #000000 !important;
+    border: 3px solid #277696 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_4:hover{
+    text-decoration: none !important; 
+    background-color: #277696 !important;
+    color: #ffffff !important;
+    border-color: #277696 !important;
+}
+
+.button_2 {
+    width: 176.7px;
+    height: 38px;
+    font-weight: 600;
+    margin-left: 10px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #ff9f00 !important;
+    color: #000000 !important;
+    border: 3px solid #ff9f00 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 8px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_2:hover{
+    text-decoration: none !important; 
+    background-color: #ff9f00 !important;
+    color: #ffffff !important;
+    border-color: #ff9f00 !important;
+}
+.button_3 {
+    width: 139.93px;
+    height: 38px;
+    font-weight: 600;
+    margin-left: 10px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #8fa193 !important;
+    color: #000000 !important;
+    border: 3px solid #8fa193 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_3:hover{
+    text-decoration: none !important; 
+    background-color: #8fa193 !important;
+    color: #ffffff !important;
+    border-color: #8fa193 !important;
+
 .text {
  margin-left: 125px;
  margin-top: 30px;
