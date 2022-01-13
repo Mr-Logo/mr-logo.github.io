@@ -258,6 +258,27 @@ body { zoom: 155%;
     color: #ffffff !important;
     border-color: #e19393 !important;
 }
+.button_6 {
+    
+    font-weight: 600;
+    margin-left: 125px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #e19393 !important;
+    color: #000000 !important;
+    border: 3px solid #e19393 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 8px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_6:hover{
+   
+    text-decoration: none !important; 
+    background-color: #e19393 !important;
+    color: #ffffff !important;
+    border-color: #e19393 !important;
+}
 
 .border {
     width: 720px;
