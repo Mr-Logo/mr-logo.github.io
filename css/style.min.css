@@ -263,7 +263,7 @@ body { zoom: 125%;
 .button_1 {
     width: 142.2px;
     height: 38px;
-    font-weight: 300;
+    font-weight: 600;
     margin-top: 15px;
     margin-left: 15px;
     display: inline-block !important;
@@ -272,7 +272,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #905d40 !important;
     border-radius: 3px !important;
-    font-size: 16px !important;
+    font-size: 10px !important;
     padding: 4px 4px !important; 
     transition: all 0.6s ease !important;
 }
@@ -286,7 +286,7 @@ body { zoom: 125%;
 .button_4 {
     width: 169.81px;
     height: 38px;
-    font-weight: 300;
+    font-weight: 600;
     margin-left: 10px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -294,7 +294,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #277696 !important;
     border-radius: 3px !important;
-    font-size: 16px !important;
+    font-size: 10px !important;
     padding: 4px 4px !important; 
     transition: all 0.6s ease !important;
 }
@@ -308,7 +308,7 @@ body { zoom: 125%;
 .button_2 {
     width: 176.7px;
     height: 38px;
-    font-weight: 300;
+    font-weight: 600;
     margin-left: 10px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -316,7 +316,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #ff9f00 !important;
     border-radius: 3px !important;
-    font-size: 16px !important;
+    font-size: 10px !important;
     padding: 4px 8px !important; 
     transition: all 0.6s ease !important;
 }
@@ -329,7 +329,7 @@ body { zoom: 125%;
 .button_3 {
     width: 139.93px;
     height: 38px;
-    font-weight: 300;
+    font-weight: 600;
     margin-left: 10px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -337,7 +337,7 @@ body { zoom: 125%;
     color: #000000 !important;
     border: 3px solid #8fa193 !important;
     border-radius: 3px !important;
-    font-size: 16px !important;
+    font-size: 10px !important;
     padding: 4px 4px !important; 
     transition: all 0.6s ease !important;
 }
