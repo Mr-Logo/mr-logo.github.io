@@ -263,7 +263,7 @@ body { zoom: 125%;
 .button_1 {
     width: 142.2px;
     height: 38px;
-    font-weight: 600;
+    font-weight: 300;
     margin-top: 15px;
     margin-left: 15px;
     display: inline-block !important;
@@ -286,7 +286,7 @@ body { zoom: 125%;
 .button_4 {
     width: 169.81px;
     height: 38px;
-    font-weight: 600;
+    font-weight: 300;
     margin-left: 10px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -308,7 +308,7 @@ body { zoom: 125%;
 .button_2 {
     width: 176.7px;
     height: 38px;
-    font-weight: 600;
+    font-weight: 300;
     margin-left: 10px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -329,7 +329,7 @@ body { zoom: 125%;
 .button_3 {
     width: 139.93px;
     height: 38px;
-    font-weight: 600;
+    font-weight: 300;
     margin-left: 10px;
     display: inline-block !important;
     text-decoration: none !important;
