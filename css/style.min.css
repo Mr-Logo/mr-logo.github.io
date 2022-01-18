@@ -1,4 +1,4 @@
-body { zoom: 145%;
+body { zoom: 146%;
 }
 
 .button {
@@ -7,10 +7,28 @@ body { zoom: 145%;
 
 .text {
  margin-left: 160px;
- margin-top: 30px;
+ margin-top: 10px;
    
 }
 
+.star {
+    zoom: 90%;
+    margin-left: 65px;
+    margin-top: 10px;
+    width: 500px;
+    height: 93px;
+    background-color: #fff6f6!important;
+    border-color: #b14100 !important;
+    border: 3px solid #b14100 !important;
+    border-radius: 5px !important;
+    transition: all 0.6s ease !important;
+}
+.star:hover{
+    text-decoration: none !important; 
+    background-color: #c9c7c7!important;
+    color: #ffffff !important;
+    border-color: #905d40 !important;
+}
 .button_1623263361963 {
     font-weight: 600;
     margin-left: 65px;
@@ -71,6 +89,134 @@ body { zoom: 145%;
     color: #ffffff !important;
     border-color: #ff9f00 !important;
 }
+
+.button_rbs21 {
+    zoom: 85%;
+    font-weight: 600;
+    margin-left: 95px;
+    margin-top: 15px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #bea698 !important;
+    color: #000000 !important;
+    border: 3px solid #905d40 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_rbs21:hover{
+    text-decoration: none !important; 
+    background-color: #bea698!important;
+    color: #ffffff !important;
+    border-color: #905d40 !important;
+}
+
+.button_rzs21 {
+    zoom: 85%;
+    font-weight: 600;
+    margin-left:40px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #6294a8 !important;
+    color: #000000 !important;
+    border: 3px solid #277696 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_rzs21:hover{
+    text-decoration: none !important; 
+    background-color: #6294a8 !important;
+    color: #ffffff !important;
+    border-color: #277696 !important;
+}
+
+.button_in21 {
+    zoom: 85%;
+    font-weight: 600;
+    margin-left: 40px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #e0ac57 !important;
+    color: #000000 !important;
+    border: 3px solid #ff9f00 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 8px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_in21:hover{
+    text-decoration: none !important; 
+    background-color: #e0ac57 !important;
+    color: #ffffff !important;
+    border-color: #ff9f00 !important;
+}
+
+.button_rbs20 {
+    zoom: 70%;
+    font-weight: 700;
+    margin-left: 35px;
+    margin-top: 15px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #bea698 !important;
+    color: #000000 !important;
+    border: 3px solid #905d40 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_rbs20:hover{
+    text-decoration: none !important; 
+    background-color: #bea698!important;
+    color: #ffffff !important;
+    border-color: #905d40 !important;
+}
+
+.button_rzs20 {
+    zoom: 70%;
+    font-weight: 700;
+    margin-left:40px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #6294a8 !important;
+    color: #000000 !important;
+    border: 3px solid #87c7e0 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 4px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_rzs20:hover{
+    text-decoration: none !important; 
+    background-color: #6294a8 !important;
+    color: #ffffff !important;
+    border-color: #277696 !important;
+}
+
+.button_in20 {
+    zoom: 70%;
+    font-weight: 700;
+    margin-left: 40px;
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #e0ac57 !important;
+    color: #000000 !important;
+    border: 3px solid #ff9f00 !important;
+    border-radius: 3px !important;
+    font-size: 16px !important;
+    padding: 4px 8px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_in20:hover{
+    text-decoration: none !important; 
+    background-color: #e0ac57 !important;
+    color: #ffffff !important;
+    border-color: #ff9f00 !important;
+}
 .first {
     margin-top: 20px;
 
@@ -78,7 +224,7 @@ body { zoom: 145%;
 
 .button_1623263361966 {
     font-weight: 600;
-    margin-left: 135px;
+    margin-left: 165px;
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #e19393 !important;
@@ -97,7 +243,8 @@ body { zoom: 145%;
 }
 .button_1623347967989 {
     font-weight: 600;
-    margin-top: 35px;
+    margin-top: 15px;
+    margin-left: 45px;
     display: inline-block !important;
     text-decoration: none !important;
     background-color: #bce6c0 !important;
@@ -238,8 +385,9 @@ body { zoom: 145%;
     border-color: #8fa193 !important;
 }
 .button_16232633619660 {
+    margin-top: 15px;
      zoom: 75%;
-    font-weight: 600;
+    font-weight: 700;
     margin-left: 250px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -260,7 +408,7 @@ body { zoom: 145%;
 }
 .button_6 {
     
-    font-weight: 600;
+    font-weight: 630;
     margin-left: 125px;
     display: inline-block !important;
     text-decoration: none !important;
@@ -282,11 +430,16 @@ body { zoom: 145%;
 
 .border {
     width: 720px;
-    height: 3px;
-    margin-top: 12px;
-    background-color: #69c712 !important;
+    height: 110px;
+    margin-top: 10px;
+    background-color: #ffffff !important;
+    border: 3px solid #69c712 !important;
     border-radius: 3px !important;
     display: inline-block !important;
+    transition: all 0.6s ease !important;
+}
+.border:hover {
+    background-color: #e0ffc3 !important;
 }
 
 .button_1 {
@@ -312,7 +465,6 @@ body { zoom: 145%;
 }
 
 .button_4 {
-   
     font-weight: 700;
     margin-left: 13px;
     display: inline-block !important;
@@ -333,7 +485,6 @@ body { zoom: 145%;
 }
 
 .button_2 {
-    
     font-weight: 700;
     margin-left: 13px;
     display: inline-block !important;
@@ -372,4 +523,5 @@ body { zoom: 145%;
     color: #ffffff !important;
     border-color: #8fa193 !important;
 
+}
 
